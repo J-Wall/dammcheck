@@ -1,7 +1,9 @@
 [package]
 name = "dammcheck"
-version = "0.1.0"
+version = "0.1.1"
+authors = ["Jesse Wallace"]
 edition = "2021"
+repository = "https://github.com/J-Wall/dammcheck"
 licence = "MIT"
 license-file = "LICENSE"
 description = "Implementation of the Damm Algorithm in various bases/alphabets"
